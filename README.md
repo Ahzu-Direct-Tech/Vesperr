@@ -26,11 +26,8 @@ Build your stunning website with our awesome Vesperr Bootstrap website template!
 ## Installation
 1. Clone the repo 
 2. CD into the folder 
-3. Run the following command:
-
-`yarn install`
-or
-`npm install`
+3. Install Dependencies: `yarn install`
+4. Run the app: `yarn dev`
 
 Note:
 > The testimonial section has been removed due to an error that I have not been able to fix. If you would like to help us solve this problem and become a contributor, please do so. 
